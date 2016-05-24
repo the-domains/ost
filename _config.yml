@@ -1,0 +1,28 @@
+name: ost
+favicon: null
+layout_spectrum: 0.49827949702739716
+typography_spectrum: 0.1356684654019773
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.1931489696726203
+  lightness: 0.4552457749377936
+  saturation: 0.8628914277069271
+  rhythmicContrast: 0.9331658245064318
+purpose: []
