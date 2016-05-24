@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: '- Composing and creating original soundtracks for commercials, video trailers.'
-datePublished: '2016-05-24T13:16:50.627Z'
-dateModified: '2016-05-24T12:40:35.338Z'
+datePublished: '2016-05-24T13:17:43.243Z'
+dateModified: '2016-05-24T13:17:34.110Z'
 title: Eugene Suhavei
 author: []
 sourcePath: _posts/2016-05-24-original-sound-tracks.md
